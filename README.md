@@ -1,4 +1,6 @@
-A tool to convert Markdown files to html applying CSS styles. Read more here https://b3nsh4.com/blog/make-pdf-from-markdown-with-css-styles/
+A tool to convert Markdown files to html applying CSS styles. Read more [from my blog](https://b3nsh4.com/blog/make-pdf-from-markdown-with-css-styles/)
+
+![image](https://user-images.githubusercontent.com/22962287/172438313-d86bc1d1-2420-42fe-aabf-a01831169aa9.png)
 
 ## Usage
 - ./md_resume_conv.py `file.md`
